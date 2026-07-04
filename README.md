@@ -4,6 +4,7 @@ Oficinas e atividade pontuada realizada em AED II, tendo em vista algoritmos de 
 
 ## Aluno 
 
-* Nome completo do aluno 1
+* Eddie Christian Pereira
+* Lucas Jácome Magalhães de Jesus
 
 
